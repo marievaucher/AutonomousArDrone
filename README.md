@@ -1,3 +1,3 @@
 # AutonomousArDrone
 
-implementation of a autonomous navigation software for Parrot ArDrone
+autonomous navigation software for Parrot ArDrone
